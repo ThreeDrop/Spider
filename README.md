@@ -11,6 +11,11 @@
 
 爬虫最难的地方在于反爬啊。
 
+**从[XiciDaili.com](https://www.xicidaili.com/nn) 获取代理IP**
+
+存储代理IP，而后筛选可用代理。
+![alt](https://github.com/yaoyitong/Spider/raw/master/xicidaili.png)
+
 **还爬了一下msra实习生的招聘信息**
 
 就是想看下有没有只要求3个月的实习，没有反爬，从列表看算是一目了然。
