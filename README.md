@@ -10,3 +10,8 @@
 
 
 爬虫最难的地方在于反爬啊。
+
+**还爬了一下msra实习生的招聘信息**
+
+就是想看下有没有只要求3个月的实习，没有反爬，从列表看算是一目了然。
+![alt](https://github.com/yaoyitong/Spider/raw/master/msra_intern_info.png)
